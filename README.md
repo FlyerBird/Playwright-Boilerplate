@@ -20,4 +20,16 @@ This repository contains a Playwright-based testing framework designed to stream
 ## Getting Started
 
 1. **Installation**
-   Ensure that you have Node.js installed, then run: npm install to install the dependencies.
+   Ensure that you have Node.js installed, then run: **npm install** to install the dependencies.
+
+2. **Setting Up Environment Variables**
+   Configure the necessary environment variables in a `.env` file:
+      USER_TRAINING=<your_username>
+      PASS=<your_password>
+
+
+3. **Running Tests**
+To run all tests: **npx playwright test**
+To run a specific test file: **npx playwright test example.spec.ts**
+
+
