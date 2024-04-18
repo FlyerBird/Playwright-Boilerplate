@@ -20,4 +20,4 @@ This repository contains a Playwright-based testing framework designed to stream
 ## Getting Started
 
 1. **Installation**
-   Ensure that you have Node.js installed, then run:
+   Ensure that you have Node.js installed, then run: npm install to install the dependencies.
